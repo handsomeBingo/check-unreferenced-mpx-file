@@ -1,0 +1,19 @@
+{
+  "name": "check-unreferenced-mpx-file",
+  "version": "1.0.0",
+  "description": "",
+  "main": "lib/getUnInvolvedComponents.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "bin": {
+    "check-unreferenced-mpx": "./lib/getUnInvolvedComponents.js"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "devDependencies": {
+    "enhanced-resolve": "^5.17.1",
+    "json5": "^2.2.3"
+  }
+}
