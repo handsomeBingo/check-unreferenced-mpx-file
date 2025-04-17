@@ -9,4 +9,10 @@ dist/
 dll/
 .eslintcache
 .cache/
+jest-html-reporters-attach/
+noBuildConfig/mainnpm.json
 pnpm-out/
+.pnpmfile.cjs
+file-tree-flat.json
+scan-comps.json
+un-used.json
